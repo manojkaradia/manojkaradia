@@ -23,7 +23,7 @@ contract Coin {
 //Error allow you to provide information about why an operation failed, they are returned to the caller of the function.
     error InsufficientBalance( uint requested, uint available);
 
-//sends an amount existing coins from any caller to an address 
+//sends an amount of existing coins from any caller to an address 
     function send( address receiver, uint amount) public {
          if (amount > balances[msg.sender])
              revert InsufficientBalance({
