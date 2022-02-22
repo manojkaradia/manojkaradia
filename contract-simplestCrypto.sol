@@ -9,7 +9,7 @@ contract Coin {
 //Events allow clients to react to specific contract changes you declare
     event Sent( address from, address to, uint amount );
 
-//Constructor code is only run when contract is created 
+//Constructor code is only run when contract is being created 
     constructor() {
         minter= msg.sender;
     }
