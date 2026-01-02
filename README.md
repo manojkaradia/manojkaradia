@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mk
-- 👀 I’m interested in product development
+- 👀 Interested in product development
 - 📫 How to reach me : contact@playcoda.com
 
 <!---
