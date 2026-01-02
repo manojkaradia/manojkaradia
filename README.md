@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mk
-- 👀 I’m interested in CryptoCurrency
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on any Crypto Project
-- 📫 How to reach me : Here only
+- 👀 I’m interested in product development
+- 📫 How to reach me : contact@playcoda.com
 
 <!---
 mk/mk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
